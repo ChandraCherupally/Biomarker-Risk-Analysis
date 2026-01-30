@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (optional – keep raw data private)
+#*.csv
+
+# OS / Editor
+.vscode/
+.DS_Store
