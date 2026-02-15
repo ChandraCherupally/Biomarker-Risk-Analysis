@@ -1,0 +1,6 @@
+2026-02-15 14:23:18,468 - INFO - Ingesting health_markers_dataset.csv into DB
+2026-02-15 14:23:19,031 - INFO - ------------- Ingestion Complete --------------------
+2026-02-15 14:23:19,032 - INFO - Total Time Taken: 0.01 minutes
+2026-02-15 16:39:12,676 - INFO - Ingesting health_markers_dataset.csv into DB
+2026-02-15 16:39:13,292 - INFO - ------------- Ingestion Complete --------------------
+2026-02-15 16:39:13,292 - INFO - Total Time Taken: 0.01 minutes
